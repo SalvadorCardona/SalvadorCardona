@@ -45,8 +45,9 @@ FastAPI…) and run in production on several professional projects, Animalink am
   agents each take €1,000 to the S&P 500 and are scored against one another.
 - **[gnome-claude-usage](https://github.com/SalvadorCardona/gnome-claude-usage)** — a GNOME
   Shell indicator for Claude Code usage, read from the official figures, no token spent.
-- **[Mobile Factory](https://cardona.digital/mobile-factory/)** — a 2D factory game played
-  with the thumb, in the browser. TypeScript and PixiJS v8.
+- **[Adam](https://cardona.digital/adam/)** — a 2D building and survival game played
+  with the thumb, in the browser. TypeScript and PixiJS v8 —
+  [code](https://github.com/SalvadorCardona/adam).
 - **[Dés 3D](https://salvadorcardona.github.io/des-3d/)** — a physics dice roller on web, iOS
   and Android from a single codebase.
 

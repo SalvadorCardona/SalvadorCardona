@@ -1,4 +1,4 @@
-![Hermez](https://raw.githubusercontent.com/SalvadorCardona/brand-assets/main/projects/hermez/banner.png)
+![Hermez](https://raw.githubusercontent.com/hermez-agency/brand-assets/main/projects/hermez/banner.png)
 
 **Lead developer, thirteen years in, on the team at [Hermez](https://hermez.dev)** — a digital
 agency in Lyon (organisation: [hermez-agency](https://github.com/hermez-agency)). The team
